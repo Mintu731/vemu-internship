@@ -1,0 +1,5 @@
+[2025-02-24 11:33:25] Exception Occurred: com.exception.GreaterMarksException
+com.exception.GreaterMarksException
+	at com.exception.CustomExceptionDemo.result(CustomExceptionDemo.java:20)
+	at com.exception.CustomExceptionDemo.main(CustomExceptionDemo.java:41)
+-------------------------------------------------
